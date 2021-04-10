@@ -1,0 +1,81 @@
+body{
+  background-image: url('https://gusteffen.files.wordpress.com/2011/02/nospacewall.jpg');
+  background-size: cover;
+  text-align: center;
+  }
+
+body h1{
+  color: white;
+}
+
+header{
+  margin-top: 6.25em;
+  font: bold 20pt Arial;
+}
+
+form{
+  width: 25em;
+  padding: auto;
+  margin: auto;
+  height: auto;
+  text-align: center;
+  box-shadow: 5px 5px 15px 3px rgb(0, 0, 0);
+  border-radius: 5px 5px 35px 35px;
+}
+input#tela{
+  background-color: #7FFF00;
+  padding: auto;
+  border-radius: 5px 5px 0px 0px;
+  width: 14.5em;
+  border: none;
+  height: 1.5em;
+  font: normal 20pt Arial;
+}
+
+input.opera{
+  background-color: #2F4F4F;
+  border-radius: 5px;
+  width: 3.6em;
+  font: normal 20pt Arial;
+  border: none;
+  padding: 0.372em;
+  margin-top: 0.2em;
+}
+
+input.num{
+  background-color: #20B2AA;
+  border-radius: 5px;
+  width: 3.6em;
+  font: normal 20pt Arial;
+  border: none;
+  padding: 0.372em;
+  margin-top: 0.2em;
+}
+input.apagar{
+  background-color: #4682B4;
+  border-radius: 15px;
+  width: 3.6em;
+  font: normal 20pt Arial;
+  border: none;
+  padding: 0.372em;
+  margin-top: 0.2em;
+}
+input.igual{
+  background-color: #4682B4;
+  border-radius: 5px;
+  width: 3.6em;
+  font: normal 20pt Arial;
+  border: none;
+  padding: 0.372em;
+  margin-top: 0.2em;
+}
+input.opera-menos{
+  background-color: #2F4F4F;
+  border-radius: 15px;
+  width: 3.6em;
+  font: normal 20pt Arial;
+  border: none;
+  padding: 0.372em;
+  margin-top: 0.2em;
+}
+  
